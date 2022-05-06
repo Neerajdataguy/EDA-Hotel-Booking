@@ -9,7 +9,7 @@ Out main objective is perform EDA on the given dataset and draw useful conclusio
 We are given a hotel bookings dataset. This dataset contains booking information for a city hotel and a resort hotel. It contains the following features.
 
 ```
-- hotel: Name of hotel ( City or Resort)
+- **hotel**: Name of hotel ( City or Resort)
 - is_canceled: Whether booking is cancelled or not (0 for no cancelled and 1 for cancelled)
 - lead_time: time (in days) between booking transaction and actual arrival.
 - arrival_date_year: Year of arrival
@@ -25,8 +25,7 @@ We are given a hotel bookings dataset. This dataset contains booking information
 - country: Country of origin of customers (as mentioned by them)
 - market_segment: What segment via booking was made and for what purpose.
 - distribution_channel: Via which medium booking was made.
-- is_repeated_guest: Whether the customer has made any booking before(0 for No and 1 for 
-                     Yes)
+- is_repeated_guest: Whether the customer has made any booking before(0 for No and 1 for Yes)
 - previous_cancellations: No. of previous cancelled bookings.
 - previous_bookings_not_canceled: No. of previous non-cancelled bookings.
 - reserved_room_type: Room type reserved by customer.
