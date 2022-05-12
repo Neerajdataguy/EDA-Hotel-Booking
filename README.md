@@ -74,7 +74,7 @@ All duplicate rows were dropped.
 
 Performed EDA and tried answering the following questions:
 
-'''
+```
  Q1) Which agent makes the most no. of bookings?
  Q2) Which room type is in most demand and which room type generatesthe  highest adr?
  Q3) Which meal type isthe  most preffered meal of customers?
@@ -98,7 +98,7 @@ Performed EDA and tried answering the following questions:
  Q21) What is the trend of bookings within a month?
  Q22) Which types of customers mostly make bookings?
 
-'''
+```
 
 Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
   -  Bar Plot.
